@@ -38,6 +38,12 @@ img{
 	box-shadow: none;
 	padding: 3%;
 }
+.hello_text{
+	font-size: 2em;
+}
+.introduction{
+	font-size: 1.5em;
+}
 .btn{
 	background: #000000; /* fallback for old browsers */
 	background: -webkit-linear-gradient(to left, #000000 , #434343); /* Chrome 10-25, Safari 5.1-6 */

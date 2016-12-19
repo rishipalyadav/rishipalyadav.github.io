@@ -1,0 +1,68 @@
+body{
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+	background: #e9d362; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to left, #e9d362 , #333333); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #e9d362 , #333333);
+}
+nav{
+	background: #e9d362; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to left, #e9d362 , #333333); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #e9d362 , #333333);
+}
+main {
+	flex: 1 0 auto;
+}
+a.brand-logo{
+	color: #ffffff;
+}
+.intro-text{
+	text-align: center;
+	width: 50%;
+	margin: auto;
+	color: #ffffff;
+}
+img{
+	margin-top: 7%;
+	border: 1px solid;
+	border-color: #8A8A8A;
+}
+.name{
+	color: black;
+}
+.brand-logo{
+	margin-left: 5%;
+}
+.nav-wrapper{
+	box-shadow: none;
+	padding: 3%;
+}
+.btn{
+	background: #000000; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to left, #000000 , #434343); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #000000 , #434343);
+}
+.links{
+	display: inline-block;
+	margin: 3%;
+}
+div.links:hover{
+	opacity: 0.3;
+}
+i{
+	color: #ffffff;
+}
+.page-footer{
+	text-align: center;
+	background: #e9d362; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to left, #e9d362 , #333333); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #e9d362 , #333333);
+}
+.row{
+	margin: 0;
+}
+
+.container{
+	color: #ffffff;
+}

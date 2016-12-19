@@ -1,0 +1,52 @@
+body{
+	background-image: url("../images/6.jpg");
+	background-size: cover;
+}
+.main{
+	width: 80%;
+	margin: auto;
+	text-align: center;
+}
+.heading{
+	color: white;
+	font-size: 3.5em;
+	margin-bottom: 8%;
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+}
+.name{
+	font-size: 1.5em;
+	font-family: 'Roboto', sans-serif;
+}
+
+.card{
+	width: 40%;
+	margin: auto;
+}
+.intro-box{
+	margin: 1% auto;
+	background-color: #ffffff;
+	border-radius: 3%;
+}
+.intro{
+	padding: 2%;
+	
+}
+
+.contact-links{
+	border-radius: 0 0 2% 2%;
+	background: #141E30; 
+	background: -webkit-linear-gradient(to left, #141E30 , #243B55); 
+	background: linear-gradient(to left, #141E30 , #243B55);
+}
+.links{
+	display: inline-block;
+	padding: 1%;
+	margin: 3%;
+}
+div.links:hover{
+	opacity: 0.3;
+}
+i{
+	color: #ffffff;
+}

@@ -7,8 +7,8 @@ body{
 	background: linear-gradient(to left, #e9d362 , #333333);
 }
 nav{
-	background: #e9d362; /* fallback for old browsers */
-	background: -webkit-linear-gradient(to left, #e9d362 , #333333); /* Chrome 10-25, Safari 5.1-6 */
+	background: #e9d362; 
+	background: -webkit-linear-gradient(to left, #e9d362 , #333333); 
 	background: linear-gradient(to left, #e9d362 , #333333);
 }
 main {
@@ -24,18 +24,11 @@ a.brand-logo{
 	color: #ffffff;
 }
 img{
-	margin-top: 7%;
+	margin-top: 10%;
 	border: 1px solid;
 	border-color: #8A8A8A;
 }
-.name{
-	color: black;
-}
-.brand-logo{
-	margin-left: 5%;
-}
 .nav-wrapper{
-	box-shadow: none;
 	padding: 3%;
 }
 .hello_text{
@@ -61,17 +54,19 @@ i{
 }
 .page-footer{
 	text-align: center;
-	background: #e9d362; /* fallback for old browsers */
-	background: -webkit-linear-gradient(to left, #e9d362 , #333333); /* Chrome 10-25, Safari 5.1-6 */
+	background: #e9d362; 
+	background: -webkit-linear-gradient(to left, #e9d362 , #333333); 
 	background: linear-gradient(to left, #e9d362 , #333333);
 }
 .row{
 	margin: 0;
 }
-
 .container{
 	color: #ffffff;
 }
 a{
 	color: #000000;
+}
+.resume_button{
+	font-size: 1.5em;
 }

@@ -1,0 +1,54 @@
+body{
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+	background: #e9d362; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to left, #e9d362 , #333333); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #e9d362 , #333333);
+}
+nav{
+	background: #e9d362; 
+	background: -webkit-linear-gradient(to left, #e9d362 , #333333); 
+	background: linear-gradient(to left, #e9d362 , #333333);
+}
+main {
+	flex: 1 0 auto;
+	text-align: center;
+}
+.resume_text{
+	font-size: 2em;
+	color: #ffffff;
+}
+a.brand-logo{
+	color: #ffffff;
+}
+.btn{
+	background: #000000; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to left, #000000 , #434343); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #000000 , #434343);
+}
+.links{
+	display: inline-block;
+	margin: 3%;
+}
+div.links:hover{
+	opacity: 0.3;
+}
+i{
+	color: #ffffff;
+}
+.page-footer{
+	text-align: center;
+	background: #e9d362; 
+	background: -webkit-linear-gradient(to left, #e9d362 , #333333); 
+	background: linear-gradient(to left, #e9d362 , #333333);
+}
+.row{
+	margin: 0;
+}
+.container{
+	color: #ffffff;
+}
+a{
+	color: #000000;
+}

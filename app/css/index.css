@@ -1,6 +1,10 @@
 body{
 	background-image: url("../images/background.jpg");
 	background-size: cover;
+	background-repeat:  no-repeat;
+	position: relative;
+	background-position: center center;
+	background-attachment: fixed;
 }
 .main{
 	width: 80%;
@@ -22,6 +26,8 @@ body{
 .card{
 	width: 40%;
 	margin: auto;
+	margin-bottom: 10%;
+	margin-top: 20%;
 }
 .intro-box{
 	margin: 1% auto;
@@ -49,4 +55,10 @@ div.links:hover{
 }
 i{
 	color: #ffffff;
+}
+
+@media only screen and (max-width: 767px) {
+	body {
+		background-image: url("../images/background.jpg");
+	}
 }

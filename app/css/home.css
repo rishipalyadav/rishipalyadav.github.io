@@ -54,9 +54,9 @@ i{
 }
 .page-footer{
 	text-align: center;
-	background: #e9d362; 
-	background: -webkit-linear-gradient(to left, #e9d362 , #333333); 
-	background: linear-gradient(to left, #e9d362 , #333333);
+	background: #ffd89b; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to left, #ffd89b , #19547b); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #ffd89b , #19547b);
 }
 .row{
 	margin: 0;

@@ -1,54 +1,54 @@
-body{
-	display: flex;
-	min-height: 100vh;
-	flex-direction: column;
-	background: #ffd89b; /* fallback for old browsers */
-	background: -webkit-linear-gradient(to left, #ffd89b , #19547b); /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to left, #ffd89b , #19547b);
-}
-nav{
-	background: #ffd89b; /* fallback for old browsers */
-	background: -webkit-linear-gradient(to left, #ffd89b , #19547b); /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to left, #ffd89b , #19547b);
-}
-main {
-	flex: 1 0 auto;
-	text-align: center;
-}
-.resume_text{
-	font-size: 2em;
-	color: #ffffff;
-}
-a.brand-logo{
-	color: #ffffff;
-}
-.btn{
-	background: #000000; /* fallback for old browsers */
-	background: -webkit-linear-gradient(to left, #000000 , #434343); /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to left, #000000 , #434343);
-}
-.links{
-	display: inline-block;
-	margin: 3%;
-}
-div.links:hover{
-	opacity: 0.3;
-}
-i{
-	color: #ffffff;
-}
-.page-footer{
-	text-align: center;
-	background: #ffd89b; /* fallback for old browsers */
-	background: -webkit-linear-gradient(to left, #ffd89b , #19547b); /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to left, #ffd89b , #19547b);
-}
-.row{
-	margin: 0;
-}
-.container{
-	color: #ffffff;
-}
-a{
-	color: #000000;
-}
+	body{
+		display: flex;
+		min-height: 100vh;
+		flex-direction: column;
+		background: #16222A; /* fallback for old browsers */
+		background: -webkit-linear-gradient(to left, #16222A , #3A6073); /* Chrome 10-25, Safari 5.1-6 */
+		background: linear-gradient(to left, #16222A , #3A6073);
+	}
+	nav{
+		background: #16222A; /* fallback for old browsers */
+		background: -webkit-linear-gradient(to left, #16222A , #3A6073); /* Chrome 10-25, Safari 5.1-6 */
+		background: linear-gradient(to left, #16222A , #3A6073);
+	}
+	main {
+		flex: 1 0 auto;
+		text-align: center;
+	}
+	.resume_text{
+		font-size: 2em;
+		color: #ffffff;
+	}
+	a.brand-logo{
+		color: #ffffff;
+	}
+	.btn{
+		background: #000000; /* fallback for old browsers */
+		background: -webkit-linear-gradient(to left, #000000 , #434343); /* Chrome 10-25, Safari 5.1-6 */
+		background: linear-gradient(to left, #000000 , #434343);
+	}
+	.links{
+		display: inline-block;
+		margin: 3%;
+	}
+	div.links:hover{
+		opacity: 0.3;
+	}
+	i{
+		color: #ffffff;
+	}
+	.page-footer{
+		text-align: center;
+		background: #16222A; /* fallback for old browsers */
+		background: -webkit-linear-gradient(to left, #16222A , #3A6073); /* Chrome 10-25, Safari 5.1-6 */
+		background: linear-gradient(to left, #16222A , #3A6073);
+	}
+	.row{
+		margin: 0;
+	}
+	.container{
+		color: #ffffff;
+	}
+	a{
+		color: #000000;
+	}

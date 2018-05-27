@@ -2,8 +2,8 @@ body {
   font-family: 'Open Sans', serif;
   padding-top: 54px;
   color: #868e96;
+  background-color: #0F1A26;
 }
-
 @media (min-width: 992px) {
   body {
     padding-top: 0;
@@ -20,7 +20,7 @@ h6 {
   font-family: 'Saira Extra Condensed', serif;
   font-weight: 700;
   /* text-transform: uppercase; */
-  color: #343a40;
+  color: white;
 }
 
 h1 {
@@ -63,7 +63,6 @@ h2 {
   font-weight: 600;
   /* text-transform: uppercase; */
 }
-
 @media (min-width: 992px) {
   #sideNav {
     text-align: center;
@@ -105,7 +104,7 @@ h2 {
 }
 
 section.resume-section {
-  border-bottom: 1px solid #dee2e6;
+  /* border-bottom: 1px solid #dee2e6; */
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
 }
@@ -131,17 +130,48 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #242424 !important;
+  background-color: #0F1A26 !important;
 }
 
 .text-primary {
-  color: #242424 !important;
+  color: white !important;
 }
 
 a {
-  color: #242424;
+  color: #4deee2;
 }
 
 a:hover, a:focus, a:active {
   color: #824027;
+}
+
+section.resume-section .my-auto .hide {
+  display:none;
+}
+
+@media (max-width: 768px) {
+section.resume-section .my-auto .hide{
+  display: inline;
+  text-align: center;
+}
+section.resume-section .my-auto h2{
+  text-align: center;
+}
+section.resume-section .my-auto .subheading{
+  text-align: center;
+}
+
+section.resume-section .my-auto ul{
+  text-align: center;
+}
+body{
+  background-color: #0F1A26;
+  color: white;
+}
+a{
+  color: #4deee2;
+}
+.text-primary {
+  color: white !important;
+}
 }

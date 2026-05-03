@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opsec on Rishipal Yadav · not your CISO</title>
+    <link>http://localhost:1313/tags/opsec/</link>
+    <description>Recent content in Opsec on Rishipal Yadav · not your CISO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Rishipal Yadav</copyright>
+    <lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/opsec/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Operational Security 101</title>
+      <link>http://localhost:1313/posts/operational-security-101/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/operational-security-101/</guid>
+      <description>&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;This article was originally published in &lt;a href=&#34;https://osintteam.blog&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;OSINT Team&lt;/a&gt; on Medium. &lt;a href=&#34;https://notyourciso.medium.com/operational-security-101-79697f48cbaf&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Read the full post →&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&lt;p&gt;Last week, Andrew Tate got into a Twitter fight with Greta Thunberg, both taking jibes at each other. It got ugly — and the next day, Romanian authorities used a pizza box visible in his response video to confirm his location and arrest him.&lt;/p&gt;&#xA;&lt;p&gt;You genuinely could not write a better operational security case study.&lt;/p&gt;&#xA;&lt;p&gt;Operational security, or OPSEC, started as a military concept — protecting information about your own operations from an adversary who might use it against you. In the digital age, it applies to everyone: activists, executives, journalists, and apparently influencers who pick fights on Twitter.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

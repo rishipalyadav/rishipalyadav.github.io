@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Audit on Rishipal Yadav · not your CISO</title>
+    <link>http://localhost:1313/tags/audit/</link>
+    <description>Recent content in Audit on Rishipal Yadav · not your CISO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Rishipal Yadav</copyright>
+    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/audit/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Audit Room Has Two Stories And Neither Is the Full Truth</title>
+      <link>http://localhost:1313/posts/audit-room-two-stories/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/audit-room-two-stories/</guid>
+      <description>&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;This article was originally published in &lt;a href=&#34;https://medium.com/dark-roast-security&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Dark Roast Security&lt;/a&gt; on Medium. &lt;a href=&#34;https://notyourciso.medium.com/the-audit-room-has-two-stories-and-neither-is-the-full-truth-06fb15fe3341&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Read the full post →&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&lt;p&gt;Every audit room has two stories playing simultaneously. The auditor walks in with a checklist, a mandate, and the quiet authority of an independent assessor. The auditee walks in with months of prep, a defensive posture, and the knowledge that something will be found — the only question is what.&lt;/p&gt;&#xA;&lt;p&gt;The problem is neither side is telling their story particularly well. And that communication gap is where audits go from being useful to being theatre.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

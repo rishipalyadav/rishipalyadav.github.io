@@ -1,0 +1,7 @@
+baseURL = "https://rishipalyadav.github.io/"
+languageCode = "en"
+defaultContentLanguage = "en"
+enableEmoji = true
+enableRobotsTXT = true
+paginate = 10
+theme = "blowfish"

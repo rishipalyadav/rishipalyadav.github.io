@@ -1,0 +1,51 @@
+# =====================================================
+# menus.en.toml — site navigation
+# =====================================================
+
+[[main]]
+  name    = "About"
+  pageRef = "about"
+  weight  = 10
+
+[[main]]
+  name    = "Experience"
+  pageRef = "experience"
+  weight  = 15
+
+[[main]]
+  name    = "Research"
+  pageRef = "research"
+  weight  = 20
+
+[[main]]
+  name    = "Academic"
+  pageRef = "academic-contributions"
+  weight  = 25
+
+
+[[main]]
+  name    = "Blog"
+  pageRef = "posts"
+  weight  = 30
+
+[[main]]
+  name    = "not your CISO ↗"
+  url     = "https://notyourciso.medium.com"
+  weight  = 40
+
+# [[main]]
+#   name    = "not your CISO"
+#   url     = "https://notyourciso.medium.com"
+#   weight  = 40
+
+[[footer]]
+  name = "Email"
+  url  = "mailto:yadav.rishipal001@gmail.com"
+
+[[footer]]
+  name = "LinkedIn"
+  url  = "https://linkedin.com/in/rishipalyadav"
+
+[[footer]]
+  name = "GitHub"
+  url  = "https://github.com/rishipalyadav"

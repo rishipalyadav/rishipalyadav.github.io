@@ -1,0 +1,13 @@
+title = "Rishipal Yadav · not your CISO"
+
+[params.author]
+  name        = "Rishipal Yadav"
+  image       = "img/avatar.jpg"
+  headline    = "GRC · Cloud Security · Nation-State Threats · RSA Scholar '24"
+  bio         = "Assistant Manager – Cybersecurity @ Uniqus Consultech · CISSP · GCP-ACE · M.Eng Cybersecurity, UMD · Writing at [not your CISO](https://notyourciso.medium.com)"
+  links = [
+    { email    = "mailto:yadav.rishipal001@gmail.com" },
+    { linkedin = "https://linkedin.com/in/rishipalyadav" },
+    { github   = "https://github.com/rishipalyadav" },
+    { medium   = "https://notyourciso.medium.com" },
+  ]

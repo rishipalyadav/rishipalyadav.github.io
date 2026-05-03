@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Training on Rishipal Yadav · not your CISO</title>
+    <link>http://localhost:1313/tags/training/</link>
+    <description>Recent content in Training on Rishipal Yadav · not your CISO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Rishipal Yadav</copyright>
+    <lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/training/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Security Awareness Training: A Design Thinking Project</title>
+      <link>http://localhost:1313/posts/security-awareness-design-thinking/</link>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/security-awareness-design-thinking/</guid>
+      <description>&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;This article was originally published on &lt;a href=&#34;https://notyourciso.medium.com&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;not your CISO&lt;/a&gt; on Medium. &lt;a href=&#34;https://notyourciso.medium.com/security-awareness-training-a-design-thinking-project-c06686163480&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Read the full post →&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&lt;p&gt;During the last semester (Spring 2024) of my Master of Engineering in Cybersecurity at the University of Maryland, College Park, I joined the Innovation Fellowship cohort at the Academy for Innovation and Entrepreneurship. The project: apply design thinking to security awareness training.&lt;/p&gt;&#xA;&lt;p&gt;Security awareness training has a reputation problem. Compliance teams love it. Employees hate it. And the data on whether it actually changes behaviour is, at best, mixed. The question I started with was: what would security awareness training look like if you designed it the way a product designer would — starting with the user, not the policy?&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Educate Your Team — Do Not Chase When It Comes to Security</title>
+      <link>http://localhost:1313/posts/educate-your-team-dont-chase/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/educate-your-team-dont-chase/</guid>
+      <description>&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;This article was originally published on &lt;a href=&#34;https://notyourciso.medium.com&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;not your CISO&lt;/a&gt; on Medium. &lt;a href=&#34;https://notyourciso.medium.com/educate-your-team-do-not-chase-when-it-comes-to-security-b39925df078a&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Read the full post →&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&lt;p&gt;&lt;em&gt;&amp;ldquo;Hey, could you please complete the security training, it was due two days ago?&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;If that message sounds familiar — either as the person sending it or the one ignoring it — your security awareness program has a problem. And the problem isn&amp;rsquo;t that people are lazy or don&amp;rsquo;t care about security. The problem is that you&amp;rsquo;ve built a compliance exercise and called it a culture.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

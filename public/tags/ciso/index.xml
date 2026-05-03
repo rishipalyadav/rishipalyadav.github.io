@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ciso on Rishipal Yadav · not your CISO</title>
+    <link>http://localhost:1313/tags/ciso/</link>
+    <description>Recent content in Ciso on Rishipal Yadav · not your CISO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Rishipal Yadav</copyright>
+    <lastBuildDate>Sun, 09 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ciso/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>So You Do Not Want to Become a CISO Anymore?</title>
+      <link>http://localhost:1313/posts/so-you-dont-want-to-become-a-ciso/</link>
+      <pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/so-you-dont-want-to-become-a-ciso/</guid>
+      <description>&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;This article was originally published on &lt;a href=&#34;https://notyourciso.medium.com&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;not your CISO&lt;/a&gt; on Medium. &lt;a href=&#34;https://notyourciso.medium.com/so-you-do-not-want-to-become-a-ciso-anymore-4436a0c724a9&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Read the full post →&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&lt;p&gt;There has been quite a chatter in the security community for the last couple of weeks. It is always some discussion — be it a new breach, a new framework, or a regulatory shift — but this one felt different.&lt;/p&gt;&#xA;&lt;p&gt;The conversation: is the CISO role broken? Between the SolarWinds aftermath, the SEC charging CISOs personally, the expectation of omniscience with the authority of a middle manager, and the burnout rates — a lot of security professionals who once had the CISO job as their north star are quietly reconsidering.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

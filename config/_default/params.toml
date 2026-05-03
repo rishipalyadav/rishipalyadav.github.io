@@ -1,0 +1,52 @@
+# =====================================================
+# Blowfish params.toml — rishipalyadav.github.io
+# =====================================================
+
+colorScheme     = "github"      # clean dark-capable neutral; other options: noir, terminal, github
+defaultAppearance = "auto"     # "light" | "dark" | "auto"
+autoSwitchAppearance = true    # respects user's OS preference
+
+enableSearch    = true
+enableCodeCopy  = true
+
+# ---- Homepage ----------------------------------------
+# "profile" puts author card top + recent posts below
+# We use "profile" + showRecent so both halves are visible
+[homepage]
+  layout      = "profile"      # author card top-half
+  homepageImage = ""           # leave blank for profile layout
+  showRecent  = false           # shows latest posts in bottom half
+  recentLimit = 5              # how many recent posts to show
+  showMoreLink      = false
+  showMoreLinkDest  = "/posts"
+  cardView          = true     # card-style post thumbnails
+  cardViewScreenWidth = false
+
+# ---- Article defaults --------------------------------
+[article]
+  showDate            = true
+  showDateUpdated     = false
+  showAuthor          = true
+  showReadingTime     = true
+  showTableOfContents = true
+  showTaxonomies      = true
+  showWordCount       = false
+  showComments        = false
+  # sharingLinks        = ["linkedin","twitter","reddit"]
+
+# ---- List pages (blog index, research index) ---------
+[list]
+  showCards       = true
+  groupByYear     = true
+  cardView        = true
+
+# ---- Sitemap & SEO -----------------------------------
+[sitemap]
+  excludedKinds = []
+
+# ---- Footer ------------------------------------------
+[footer]
+  showCopyright   = true
+  showThemeAttribution = true   # keeps Blowfish credit (good practice)
+  showAppearanceSwitcher = true
+  showScrollToTop = true

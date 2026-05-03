@@ -11,7 +11,7 @@ showTableOfContents: false
 
 > *This article was originally published on [not your CISO](https://notyourciso.medium.com) on Medium. [Read the full post →](https://notyourciso.medium.com/linkedin-osint-for-a-quick-background-check-a-guide-for-hrs-f63dc6b6ac74)*
 
-Most organisations run background checks before someone joins. But the standard checks — employment verification, criminal records — often miss what's hiding in plain sight on LinkedIn. Open source intelligence (OSINT) techniques, applied to a public professional profile, can surface inconsistencies, red flags, and gaps that formal checks don't catch.
+Most organisations run background checks before someone joins. But the standard checks -  employment verification, criminal records — often miss what's hiding in plain sight on LinkedIn. Open source intelligence (OSINT) techniques, applied to a public professional profile, can surface inconsistencies, red flags, and gaps that formal checks don't catch.
 
 This guide is for HR professionals and hiring managers who want to use LinkedIn more systematically as part of due diligence — without crossing into surveillance.
 
